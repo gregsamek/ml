@@ -132,6 +132,3 @@ plt.show()
 # the above graph incorrectly makes it seem like test 1 is more variable
 # we can include a call to plt.axis("equal") to more accurately show the data
 # now its clear that test 2 is morevariable
-
-
-
